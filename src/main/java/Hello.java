@@ -7,5 +7,7 @@ public class Hello {
         //lets do some changing with movie2
 
         //movie on the phone 20 minutes
+
+        //another final 10 minutes changing movie2 before going back
     }
 }
